@@ -1,6 +1,7 @@
 # CVI620 Final Project - Group 2
 
 # Video Demo
+https://github.com/user-attachments/assets/b3f2da3e-27c1-43ef-b96e-24fed7810ed6
 
 ## Project Overview & Approach
 This project implements an autonomous driving system capable of steering a car in the Udacity Self-Driving Car Simulator. We utilized a Convolutional Neural Network (CNN) to predict steering angles based on camera input.
